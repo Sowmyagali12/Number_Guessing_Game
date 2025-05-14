@@ -19,17 +19,11 @@ A simple and fun game where you try to guess the number randomly selected by the
 
 ## 🔗 Live Demo
 
-  
-Example: https://yourusername.github.io/number-guessing-game/
-
-## 📷 Screenshot
-
-![Game Screenshot](screenshot.png)  
-*(Add a screenshot of the game here)*
+https://github.com/Sowmyagali12/Number_Guessing_Game
 
 ## 📁 How to Run
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/number-guessing-game.git
+   git clone https://github.com/Sowmyagali12/Number_Guessing_Game
 
