@@ -17,10 +17,6 @@ A simple and fun game where you try to guess the number randomly selected by the
 - JavaScript (Vanilla)
 - Bootstrap 4
 
-## 🔗 Live Demo
-
-https://github.com/Sowmyagali12/Number_Guessing_Game
-
 ## 📁 How to Run
 
 1. Clone this repository:
