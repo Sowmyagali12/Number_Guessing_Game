@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" cpntent="width=device-width, initial-scale=1.0">
+    <title>Number Guessing Game</title>
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    
+    <body>
+
+        <div class="container game-container">
+            <h1 class="game-title">Number Guessing Game</h1>
+            <p class="lead">Guess the number between 1 and 100!</p>
+
+            <div class="input-group">
+                <input type="number" id="userInput" class="form-control" placeholder="Enter your Number" min="1" max="100" >
+                
+            </div>
+        
+
+        <div id="result" class="result"></div>
+        <div id="feedback" class="feedback"></div>
+
+         <button class="btn btn-primary" onclick="checkGuess()">Submit</button>
+
+        <button class="btn btn-danger reset-btn" onclick="resetGame()">Reset Game</button>
+        </div>
+
+        <script src="game.js"></script>
+    </body>
+
+</head>
